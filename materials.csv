@@ -1,0 +1,14 @@
+material_id,material,unit,unit_cost,stock,min_stock,lead_time_days
+M01,Melamine board 18mm (white),m2,9.5,220,150,7
+M02,Melamine board 18mm (oak),m2,11.2,140,120,7
+M03,Fiberboard back panel 3mm,m2,3.1,160,80,7
+M04,PVC edge banding,m,0.35,1500,1200,5
+M05,Steel square tube 20x20,m,2.4,260,200,10
+M06,Steel sheet 0.9mm,m2,14.8,25,30,10
+M07,Epoxy powder paint (black),kg,8.9,18,15,10
+M08,Drawer slide (pair),unit,4.6,90,80,15
+M09,Hinge 35mm,unit,0.85,420,300,15
+M10,Handle 128mm,unit,1.4,230,150,15
+M11,Screws and fittings kit,kit,1.9,210,150,5
+M12,Packaging (cardboard box),unit,4.2,140,100,5
+M13,Adjustable leveling foot,unit,0.55,400,300,15

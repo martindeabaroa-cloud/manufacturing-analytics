@@ -1,0 +1,11 @@
+product_id,product,category,list_price,labor_minutes
+P01,Office desk 120cm,Desks,149,45
+P02,Industrial desk 140cm,Desks,199,55
+P03,Bookshelf 5 levels,Storage,139,40
+P04,Industrial metal shelf,Storage,159,35
+P05,Bedside table 1 drawer,Bedroom,69,30
+P06,Chest of drawers 4,Bedroom,179,65
+P07,Wardrobe 2 doors,Bedroom,259,80
+P08,TV stand 160cm,Living room,149,45
+P09,Industrial side table,Living room,79,20
+P10,Shoe cabinet 3 doors,Storage,119,40
